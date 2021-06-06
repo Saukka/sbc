@@ -1,2 +1,2 @@
 
-saukka.github.io/sbc
+https://saukka.github.io/sbc/
